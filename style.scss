@@ -18,7 +18,6 @@ html {
 }
 
 body {
-	background: body {
     background-image: url("https://ak8.picdn.net/shutterstock/videos/19317310/thumb/1.jpg");
 		
   font: 18px/1.4 $helvetica;
@@ -288,4 +287,4 @@ footer {
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
 @import "highlights";
-@import "svg-icons"}
+@import "svg-icons";
